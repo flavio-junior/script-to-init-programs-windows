@@ -1,5 +1,6 @@
-# Script to init programs in Windows
+![automation_2552132](https://github.com/user-attachments/assets/7747b6eb-83c3-4273-a955-644ab925e80c)
 
+# Script to init programs in Windows
 - **Specifications:**
   - **File name: `Any`**
   - **File type: ` .bat `**
