@@ -1,7 +1,10 @@
 @ECHO OFF
 
 CD "C:\Program Files\Google\Chrome\Application"
-start "C:\Program Files\Google\Chrome\Application"
+start chrome.exe
+
+CD "C:\Windows\system32"
+start cmd.exe
 
 CD "C:\Users\flavi\AppData\Local\Programs\Android Studio\bin"
 Start studio64.exe
@@ -17,11 +20,5 @@ Start MySQLWorkbench.exe
 
 CD "C:\Program Files\Notepad++"
 Start notepad++.exe
-
-CD "C:\Windows\system32"
-start cmd.exe
-
-CD "C:\Windows\System32"
-start notepad.exe
 
 Exit
